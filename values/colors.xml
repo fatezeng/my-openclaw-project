@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 未来科技风配色卡 -->
+    <color name="primary">#9C27B0</color>
+    <color name="primary_variant">#A0A0A0</color>
+    <color name="secondary">#9C27B0</color>
+    <color name="secondary_variant">#A0A0A0</color>
+    <color name="accent">#9C27B0</color>
+    <color name="accent_variant">#A0A0A0</color>
+
+    <!-- 状态色 -->
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FFC107</color>
+    <color name="error">#F44336</color>
+    <color name="info">#2196F3</color>
+
+    <!-- 文字色 -->
+    <color name="dark">#000000</color>
+    <color name="mid">#000000</color>
+    <color name="light">#000000</color>
+
+    <!-- 背景色 -->
+    <color name="bg">#FFFFFF</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="border">#000000</color>
+    <color name="table_header">#FFFFFF</color>
+
+    <!-- 白色系列 -->
+    <color name="white">#FFFFFF</color>
+    <color name="white_90">#E6FFFFFF</color>
+    <color name="white_80">#CCFFFFFF</color>
+    <color name="white_60">#99FFFFFF</color>
+    <color name="white_50">#80FFFFFF</color>
+    <color name="white_40">#66FFFFFF</color>
+    <color name="white_30">#4DFFFFFF</color>
+    <color name="white_20">#33FFFFFF</color>
+    <color name="white_opacity_90">#E6FFFFFF</color>
+    
+    <!-- 红色系列 -->
+    <color name="primary_light">#9C27B0</color>
+
+    <!-- 黑色系列 -->
+    <color name="black">#000000</color>
+    <color name="black_80">#CC000000</color>
+    <color name="black_70">#B3000000</color>
+    <color name="black_60">#99000000</color>
+    <color name="black_40">#66000000</color>
+    <color name="black_20">#33000000</color>
+    <color name="black_opacity_70">#B3000000</color>
+    
+    <!-- 灰色系列 -->
+    <color name="gray">#A0A0A0</color>
+    <color name="grey">#A0A0A0</color>
+    <color name="light_gray">#D0D0D0</color>
+    <color name="dark_gray">#606060</color>
+    
+    <!-- 其他 -->
+    <color name="transparent">#00000000</color>
+    <color name="purple_500">#9C27B0</color>
+</resources>
